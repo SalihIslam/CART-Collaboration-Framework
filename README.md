@@ -38,6 +38,8 @@ when carrying out various works for testing!</b>
 | aiodnsbrute                                                                                                                    | Import           | Import JSON/CSV results (ip, hostname)                                                                  |
 | Advanced Port Scanner                                                                                                          | Import           | Import XML results (ip, hostname, port)                                                                 |
 | RedCheck                                                                                                                       | Import           | Import CSV results (ip, port, security issues)                                                          |
+| Subfinder                                                                                                                       | Import           | domain list                                                          |
+| httpx                                                                                                                       | Import           | httpx results and technologies for target                                                         |
 
 
 
